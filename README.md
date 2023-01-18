@@ -11,5 +11,31 @@ An analysis of the impact of the Covid-19 pandemic on the formation and cessatio
 5. Are there particular industries that have potential opportunity for growth?
 
 <p align=center>
+  ### Background Information
+  </p>
+Datasets obtained from Singstats (https://www.singstat.gov.sg/find-data/search-by-theme/industry/formation-and-cessation-of-business-entities/latest-data)
+Monthly formation and cessation number of business entities, by industry, by month
+<br>
+
+The datasets consist of data for 396 months from January 1990 to December 2022
+There are a total of 15 different industries:
+1. Manufacturing
+2. Construction
+3. Wholesale Trade
+4. Retail Trade
+5. Transportation & Storage
+6. Accommodation
+7. Food & Beverage Services
+8. Information & Communications
+9. Finance & Insurance
+10. Real Estate
+11. Professional Services
+12. Administrative & Support Services
+13. Education, Health & Social Services
+14. Arts, Entertainment, Recreation & Other Services
+15. Others
+
+  
+<p align=center>
   Data Analysis
 </p>
