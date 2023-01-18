@@ -113,6 +113,6 @@ There are a total of 15 different industries:
   
 <p align=center>
   Industry: Others
-   <img width='1000' alt=['Others'] src='https://user-images.githubusercontent.com/104280044/213156426-8e727fdb-662c-453d-ae55-55927e0c9df4.png'>
+   <img width='1000' alt=['Others'] src='https://user-images.githubusercontent.com/104280044/213170047-3cf84836-a714-4644-a2b9-0ad474a34875.png'>
   </p>  
   
