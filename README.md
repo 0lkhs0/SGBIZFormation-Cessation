@@ -15,10 +15,9 @@ An analysis of the impact of the Covid-19 pandemic on the formation and cessatio
   </p>
 Datasets obtained from Singstats (https://www.singstat.gov.sg/find-data/search-by-theme/industry/formation-and-cessation-of-business-entities/latest-data)
 <br>
-Monthly formation and cessation number of business entities, by industry, by month
+Monthly formation and cessation number of business entities, by industry, by month.
 <br>
-
-The datasets consist of data for 396 months from January 1990 to December 2022
+The datasets consist of data for 396 months from January 1990 to December 2022.
 <br>
 There are a total of 15 different industries:
 1. Manufacturing
@@ -41,3 +40,6 @@ There are a total of 15 different industries:
 <p align=center>
   Data Analysis
 </p>
+<br></br>
+<p>
+  
