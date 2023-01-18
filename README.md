@@ -43,7 +43,7 @@ There are a total of 15 different industries:
 
 <br></br>
 <p align=center>
-  Total Number of Formation and Cessation of Businesses 
+  Total Number of Formation and Cessation of Businesses <br></br>
   <img width ="500" alt="[Total]" src="https://user-images.githubusercontent.com/104280044/213170565-7cfc06d7-2d29-40c8-adba-8670ee41f665.png">
 </p>
 
