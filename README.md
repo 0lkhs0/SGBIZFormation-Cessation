@@ -44,5 +44,5 @@ There are a total of 15 different industries:
 <br></br>
 <p align=center>
   Industry: Accommodation
-  <img width ="1400" alt="[Accommodation]" src="https://user-images.githubusercontent.com/104280044/213147202-6bb0a89a-8abe-4904-ad76-c7158baaceed.png">
+  <img width ="1000" alt="[Accommodation]" src="https://user-images.githubusercontent.com/104280044/213147202-6bb0a89a-8abe-4904-ad76-c7158baaceed.png">
 </p>
