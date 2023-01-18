@@ -14,6 +14,7 @@ An analysis of the impact of the Covid-19 pandemic on the formation and cessatio
   ### Background Information
   </p>
 Datasets obtained from Singstats (https://www.singstat.gov.sg/find-data/search-by-theme/industry/formation-and-cessation-of-business-entities/latest-data)
+<br>
 Monthly formation and cessation number of business entities, by industry, by month
 <br>
 
