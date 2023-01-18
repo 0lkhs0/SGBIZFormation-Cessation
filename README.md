@@ -19,6 +19,7 @@ Monthly formation and cessation number of business entities, by industry, by mon
 <br>
 The datasets consist of data for 396 months from January 1990 to December 2022.
 <br>
+
 There are a total of 15 different industries:
 1. Manufacturing
 2. Construction
