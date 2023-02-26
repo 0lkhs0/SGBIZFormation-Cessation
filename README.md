@@ -1,6 +1,11 @@
-# SGBIZFormation-Cessation
+# SG Business Formation & Cessation
 
 An analysis of the impact of the Covid-19 pandemic on the formation and cessation of business entities in Singapore, with the goal of gaining valuable insights into the economic effects of the pandemic on the country's business landscape.
+
+## Table of Contents
+
+## About the Project
+This project is a data analysis of the formation and cessation of business entities in Singapore by industry, from January 1990 to December 2022. The goal of the project was to identify trends in the data and provide insights into the performance of different industries over time. The project involved data cleaning, transformation, and visualization using Python and its data analysis libraries such as Pandas, Matplotlib, and Seaborn. Through this analysis, we were able to identify industries that have seen significant growth or decline in recent years and gain a better understanding of the business market in Singapore after covid.
 
 ## Questions to Answer
 
@@ -10,17 +15,10 @@ An analysis of the impact of the Covid-19 pandemic on the formation and cessatio
 4. Which types of businesses are most vulnerable to failure? 
 5. Are there particular industries that have potential opportunity for growth?
 
-<p align=center>
-   Background Information
-  </p>
+## Data
 Datasets obtained from Singstats (https://www.singstat.gov.sg/find-data/search-by-theme/industry/formation-and-cessation-of-business-entities/latest-data)
-<br>
-Monthly formation and cessation number of business entities, by industry, by month.
-<br>
-The datasets consist of data for 396 months from January 1990 to December 2022.
-<br>
-
-There are a total of 15 different industries:
+<br></br>
+It comprises of monthly formation and cessation values of business entities in Singapore from January 1990 to Decemeber 2022. The data is split into 397 months, across 15 different industries:
 1. Manufacturing
 2. Construction
 3. Wholesale Trade
@@ -36,6 +34,10 @@ There are a total of 15 different industries:
 13. Education, Health & Social Services
 14. Arts, Entertainment, Recreation & Other Services
 15. Others
+
+## Results
+
+
 
 <p align=center>
   Data Analysis
