@@ -2,18 +2,15 @@
 
 An analysis of the impact of the Covid-19 pandemic on the formation and cessation of business entities in Singapore, with the goal of gaining valuable insights into the economic effects of the pandemic on the country's business landscape.
 
-## Table of Contents
-
 ## About the Project
 This project is a data analysis of the formation and cessation of business entities in Singapore by industry, from January 1990 to December 2022. The goal of the project was to identify trends in the data and provide insights into the performance of different industries over time. The project involved data cleaning, transformation, and visualization using Python and its data analysis libraries such as Pandas, Matplotlib, and Seaborn. Through this analysis, we were able to identify industries that have seen significant growth or decline in recent years and gain a better understanding of the business market in Singapore after covid.
 
 ## Questions to Answer
 
-1. Which industries have seen the most growth and which have faced the most challenges post-Covid-19 pandemic in Singapore?
-2. Based on the formation and cessation rate of businesses across different industries in Singapore which industries have the highest and lowest rates?
-3. Which industries are in high demand for new business formation and evaluate their success rate in terms of survival post-establishment?
-4. Which types of businesses are most vulnerable to failure? 
-5. Are there particular industries that have potential opportunity for growth?
+1. Based on the formation and cessation rate of businesses across different industries in Singapore which industries have the highest and lowest rates?
+2. Which industries have seen the most growth and which have faced the most challenges post-Covid-19 pandemic in Singapore?
+3. Which types of businesses are most vulnerable to failure? 
+4. Which industries are in high demand for new business formation and evaluate their success rate in terms of survival post-establishment?
 
 ## Data
 Datasets obtained from Singstats (https://www.singstat.gov.sg/find-data/search-by-theme/industry/formation-and-cessation-of-business-entities/latest-data)
@@ -44,7 +41,7 @@ It comprises of monthly formation and cessation values of business entities in S
 </p>
 
 <br></br>
-<p align=center>
+<!-- <p align=center>
   Total Number of Formation and Cessation of Businesses <br></br>
   <img width ="800" alt="[Total]" src="https://user-images.githubusercontent.com/104280044/213170565-7cfc06d7-2d29-40c8-adba-8670ee41f665.png">
 </p>
@@ -121,7 +118,7 @@ It comprises of monthly formation and cessation values of business entities in S
 <p align=center>
   Industry: Others <br></br>
    <img width='800' alt=['Others'] src='https://user-images.githubusercontent.com/104280044/213170047-3cf84836-a714-4644-a2b9-0ad474a34875.png'>
-  </p>  
+  </p>   -->
   
 ## Post Covid Analysis
 
@@ -151,46 +148,54 @@ The industry with the most growth during the pandemic is Finance & Insurance.
 The industry which took the hardest hit is Transportation & Storage.
 
 ### Which types of businesses are most vulnerable to failure?
-<p>
+<p align=center>
   <img width ='800' alt['ts'] src='https://user-images.githubusercontent.com/104280044/221547261-1355c273-1a38-49d2-af27-3fc150dc6d8d.png'>
   <img width ='800' alt['ts'] src='https://user-images.githubusercontent.com/104280044/221547442-1f7700f5-9125-4020-b323-fa69abf47cd0.png'>
   </p>
 Wholesale trade the average cessation value is the highest, also the cessation rates are the most across the entire period. Retail trade follows similar pattern, We can conclude this using bar chart and line chart.
 
 ### Which industries are in high demand for new business formation and evaluate their success rate in terms of survival post-establishment?
-Finance & Insurance                                 50.176820
-Information & Communications                        41.105687
-Education, Health & Social Services                 39.721610
-Professional Services                               38.374956
-Administrative & Support Services                   23.279183
-Food & Beverage Services                            21.825709
-Arts, Entertainment, Recreation & Other Services    21.333087
-Wholesale Trade                                     16.897559
-Transportation & Storage                            15.652792
-Construction                                        14.586423
-Retail Trade                                         9.251670
-Manufacturing                                        7.332252
-Others                                               6.050093
-Real Estate                                          5.346710
-Accommodation                                            -inf
+| Industry | Success Rate |
+| --- | --- |
+| Finance & Insurance                              |50.176820|
+|Information & Communications                        |41.105687|
+|Education, Health & Social Services                 |39.721610|
+|Professional Services                               |38.374956|
+|Administrative & Support Services                   |23.279183|
+|Food & Beverage Services                            |21.825709|
+|Arts, Entertainment, Recreation & Other Services    |21.333087|
+|Wholesale Trade                                     |16.897559|
+|Transportation & Storage                            |15.652792|
+|Construction                                        |14.586423|
+|Retail Trade                                        |9.251670|
+|Manufacturing                                        |7.332252|
+|Others                                               |6.050093|
+|Real Estate                                          |5.346710|
+|Accommodation                                            |-inf|
 
-Wholesale Trade                                     764.810606
-Professional Services                               541.770202
-Retail Trade                                        419.929293
-Information & Communications                        297.805556
-Finance & Insurance                                 283.260101
-Construction                                        257.467172
-Arts, Entertainment, Recreation & Other Services    245.113636
-Transportation & Storage                            226.535354
-Administrative & Support Services                   196.679293
-Food & Beverage Services                            194.040404
-Manufacturing                                       186.613636
-Education, Health & Social Services                 183.497475
-Real Estate                                          66.921717
-Others                                               21.578283
-Accommodation                                         6.068182
+<br></br>
+Aggreate formation-cessation rate
+<br></br>
 
-<p>
+| Industry | Aggreate formation-cessation rate|
+| --- | --- |
+|Wholesale Trade                                     |764.810606|
+|Professional Services                               |541.770202|
+|Retail Trade                                        |419.929293|
+|Information & Communications                        |297.805556|
+|Finance & Insurance                                 |283.260101|
+|Construction                                        |257.467172|
+|Arts, Entertainment, Recreation & Other Services    |245.113636|
+|Transportation & Storage                            |226.535354|
+|Administrative & Support Services                   |196.679293|
+|Food & Beverage Services                            |194.040404|
+|Manufacturing                                       |186.613636|
+|Education, Health & Social Services                 |183.497475|
+|Real Estate                                         | 66.921717|
+|Others                                               |21.578283|
+|Accommodation                                         |6.068182|
+
+<p align=center>
   <img width='800' alr=['success rate'] src='https://user-images.githubusercontent.com/104280044/221553398-4f484dd2-8da2-4e67-be99-27205fb42f05.png'>
   </p>
 Wholesale trade, retail trade, professional services are in high demand.
