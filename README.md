@@ -133,6 +133,7 @@ It comprises of monthly formation and cessation values of business entities in S
 The rate is maximum for the industry:  Professional Services
 The rate is minimum for the industry:  Accommodation
 
+
 Industries like: Information & Communications, Education, Health & Social Services, Retail Trade,Arts, Entertainment, Recreation & Other Services, Transportation & Storage,Food & Beverage Services have potential for growth. 
 Their cessation formation rate is in the middle as we can observe.
 
