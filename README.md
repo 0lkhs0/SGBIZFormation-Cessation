@@ -195,3 +195,15 @@ Aggreate formation-cessation rate
   </p>
 Wholesale trade, retail trade, professional services are in high demand.
 Success rates can be observed.
+
+## Modelling 
+Modelling with decision tree regressor and xgboost
+<p>
+<img width="800" alt="Screenshot 2023-02-27 at 11 40 49 PM" src="https://user-images.githubusercontent.com/104280044/221609465-80b4a30e-013d-4062-ab42-44664c7ea005.png">
+
+<img width="685" alt="Screenshot 2023-02-27 at 11 41 26 PM" src="https://user-images.githubusercontent.com/104280044/221609610-f5e2cbe6-2a59-4b41-96c9-03bb51291eac.png">
+
+<img width="770" alt="Screenshot 2023-02-27 at 11 41 45 PM" src="https://user-images.githubusercontent.com/104280044/221609687-12079e4c-b321-4993-ac93-f2edcd24850e.png">
+<img width="614" alt="Screenshot 2023-02-27 at 11 42 02 PM" src="https://user-images.githubusercontent.com/104280044/221609757-2641d94e-7c68-4c0e-9c01-99bc2fb6dbcb.png">
+<img width="760" alt="Screenshot 2023-02-27 at 11 42 12 PM" src="https://user-images.githubusercontent.com/104280044/221609816-2e154248-84fd-4f23-a8a6-eaae618c2d97.png">
+  </p>
