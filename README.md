@@ -150,6 +150,8 @@ The industry which took the hardest hit is Transportation & Storage.
 Wholesale trade the average cessation value is the highest, also the cessation rates are the most across the entire period. Retail trade follows similar pattern, We can conclude this using bar chart and line chart.
 
 ### Which industries are in high demand for new business formation and evaluate their success rate in terms of survival post-establishment?
+
+We measure sucess rate by taking the percentage of (formation - cessation) / formation
 | Industry | Success Rate |
 | --- | --- |
 | Finance & Insurance                              |50.176820|
