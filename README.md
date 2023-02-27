@@ -123,3 +123,18 @@ It comprises of monthly formation and cessation values of business entities in S
    <img width='800' alt=['Others'] src='https://user-images.githubusercontent.com/104280044/213170047-3cf84836-a714-4644-a2b9-0ad474a34875.png'>
   </p>  
   
+## Post Covid Analysis
+
+### Based on the formation and cessation rate of businesses across different industries in Singapore, which industries have the highest and lowest rates?
+The rate is maximum for the industry:  Professional Services
+The rate is minimum for the industry:  Accommodation
+
+Industries like: Information & Communications, Education, Health & Social Services, Retail Trade,Arts, Entertainment, Recreation & Other Services, Transportation & Storage,Food & Beverage Services have potential for growth. 
+Their cessation formation rate is in the middle as we can observe.
+The cessation-formation rate is maximum for the industry:  Professional Services
+The cessation-formation rate is minimum for the industry:  Accommodation
+
+### Which industries have seen the most growth and which have faced the most challenges post-Covid-19 pandemic in Singapore?
+The industry with the most growth during the pandemic is Finance & Insurance.
+The industry which took the hardest hit is Transportation & Storage.
+
