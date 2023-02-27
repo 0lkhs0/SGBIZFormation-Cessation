@@ -125,10 +125,10 @@ It comprises of monthly formation and cessation values of business entities in S
 <p align = center>
 <img width ='800' alt['Average rate'] src='https://user-images.githubusercontent.com/104280044/221539965-2cf2a649-1b09-4a70-811c-90da135ff729.png'>
   </p>
-The rate is maximum for the industry:  Professional Services
+The rate is maximum for the industry:  Professional Services <br>
 The rate is minimum for the industry:  Accommodation
 
-Industries like: Information & Communications, Education, Health & Social Services, Retail Trade,Arts, Entertainment, Recreation & Other Services, Transportation & Storage,Food & Beverage Services have potential for growth. 
+Industries like: Information & Communications, Education, Health & Social Services, Retail Trade, Arts, Entertainment, Recreation & Other Services, Transportation & Storage, Food & Beverage Services have potential for growth. <br></br>
 Their cessation formation rate is in the middle as we can observe.
 
 
@@ -139,7 +139,7 @@ Their cessation formation rate is in the middle as we can observe.
   <img width ='800' alt['Growth'] src='https://user-images.githubusercontent.com/104280044/221546373-c89c536d-be23-4ca0-92aa-874a6039e6a0.png'>
   </p>
   
-The industry with the most growth during the pandemic is Finance & Insurance.
+The industry with the most growth during the pandemic is Finance & Insurance. <br></br>
 The industry which took the hardest hit is Transportation & Storage.
 
 ### Which types of businesses are most vulnerable to failure?
