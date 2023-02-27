@@ -207,3 +207,9 @@ Modelling with decision tree regressor and xgboost
 <img width="614" alt="Screenshot 2023-02-27 at 11 42 02 PM" src="https://user-images.githubusercontent.com/104280044/221609757-2641d94e-7c68-4c0e-9c01-99bc2fb6dbcb.png">
 <img width="760" alt="Screenshot 2023-02-27 at 11 42 12 PM" src="https://user-images.githubusercontent.com/104280044/221609816-2e154248-84fd-4f23-a8a6-eaae618c2d97.png">
   </p>
+  
+  
+ ## Limitations
+ Modelling is not accurate as the impact of external factors in Singapore and globally will affect the business environment.
+ The dataset does not comprise of existing business entities before 1990.
+ 
