@@ -130,10 +130,11 @@ It comprises of monthly formation and cessation values of business entities in S
 <img width ='800' alt=['Time series formation-cessation rate'] src='https://user-images.githubusercontent.com/104280044/221544636-f86ea883-af1a-41bf-8b7f-7a87edcd3cff.png'>
  </p>
 
+<p>
 <img width ='800' alt['Average rate'] src='https://user-images.githubusercontent.com/104280044/221539965-2cf2a649-1b09-4a70-811c-90da135ff729.png'>
+  </p>
 The rate is maximum for the industry:  Professional Services
 The rate is minimum for the industry:  Accommodation
-
 
 Industries like: Information & Communications, Education, Health & Social Services, Retail Trade,Arts, Entertainment, Recreation & Other Services, Transportation & Storage,Food & Beverage Services have potential for growth. 
 Their cessation formation rate is in the middle as we can observe.
@@ -141,6 +142,56 @@ Their cessation formation rate is in the middle as we can observe.
 
 ### Which industries have seen the most growth and which have faced the most challenges post-Covid-19 pandemic in Singapore?
 
+<p align=center>
+   <img width ='800' alt['Growth'] src='https://user-images.githubusercontent.com/104280044/221546743-5772d22e-f1c3-4331-945b-b6d30f04b756.png'>
+  <img width ='800' alt['Growth'] src='https://user-images.githubusercontent.com/104280044/221546373-c89c536d-be23-4ca0-92aa-874a6039e6a0.png'>
+  </p>
+  
 The industry with the most growth during the pandemic is Finance & Insurance.
 The industry which took the hardest hit is Transportation & Storage.
 
+### Which types of businesses are most vulnerable to failure?
+<p>
+  <img width ='800' alt['ts'] src='https://user-images.githubusercontent.com/104280044/221547261-1355c273-1a38-49d2-af27-3fc150dc6d8d.png'>
+  <img width ='800' alt['ts'] src='https://user-images.githubusercontent.com/104280044/221547442-1f7700f5-9125-4020-b323-fa69abf47cd0.png'>
+  </p>
+Wholesale trade the average cessation value is the highest, also the cessation rates are the most across the entire period. Retail trade follows similar pattern, We can conclude this using bar chart and line chart.
+
+### Which industries are in high demand for new business formation and evaluate their success rate in terms of survival post-establishment?
+Finance & Insurance                                 50.176820
+Information & Communications                        41.105687
+Education, Health & Social Services                 39.721610
+Professional Services                               38.374956
+Administrative & Support Services                   23.279183
+Food & Beverage Services                            21.825709
+Arts, Entertainment, Recreation & Other Services    21.333087
+Wholesale Trade                                     16.897559
+Transportation & Storage                            15.652792
+Construction                                        14.586423
+Retail Trade                                         9.251670
+Manufacturing                                        7.332252
+Others                                               6.050093
+Real Estate                                          5.346710
+Accommodation                                            -inf
+
+Wholesale Trade                                     764.810606
+Professional Services                               541.770202
+Retail Trade                                        419.929293
+Information & Communications                        297.805556
+Finance & Insurance                                 283.260101
+Construction                                        257.467172
+Arts, Entertainment, Recreation & Other Services    245.113636
+Transportation & Storage                            226.535354
+Administrative & Support Services                   196.679293
+Food & Beverage Services                            194.040404
+Manufacturing                                       186.613636
+Education, Health & Social Services                 183.497475
+Real Estate                                          66.921717
+Others                                               21.578283
+Accommodation                                         6.068182
+
+<p>
+  <img width='800' alr=['success rate'] src='https://user-images.githubusercontent.com/104280044/221553398-4f484dd2-8da2-4e67-be99-27205fb42f05.png'>
+  </p>
+Wholesale trade, retail trade, professional services are in high demand.
+Success rates can be observed.
