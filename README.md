@@ -35,11 +35,6 @@ It comprises of monthly formation and cessation values of business entities in S
 ## Results
 
 
-
-<p align=center>
-  Data Analysis (Post-Covid)
-</p>
-
 <br></br>
 <!-- <p align=center>
   Total Number of Formation and Cessation of Businesses <br></br>
@@ -123,11 +118,11 @@ It comprises of monthly formation and cessation values of business entities in S
 ## Post Covid Analysis
 
 ### Based on the formation and cessation rate of businesses across different industries in Singapore, which industries have the highest and lowest rates?
-<p>
+<p align=center>
 <img width ='800' alt=['Time series formation-cessation rate'] src='https://user-images.githubusercontent.com/104280044/221544636-f86ea883-af1a-41bf-8b7f-7a87edcd3cff.png'>
  </p>
 
-<p>
+<p align = center>
 <img width ='800' alt['Average rate'] src='https://user-images.githubusercontent.com/104280044/221539965-2cf2a649-1b09-4a70-811c-90da135ff729.png'>
   </p>
 The rate is maximum for the industry:  Professional Services
